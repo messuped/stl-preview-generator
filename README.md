@@ -116,10 +116,6 @@ The project uses the following main Python packages:
    - Try processing fewer files at once
    - Consider running with a larger Docker container memory limit
 
-## License
-
-[Your chosen license]
-
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
